@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>GoodView — Welcome</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <header>
+    <h1>GoodView</h1>
+    <nav>
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="about.html">About Us</a></li>
+        <li><a href="products.html">Products</a></li>
+        <li><a href="news.html">News</a></li>
+        <li><a href="contact.html">Contact Us</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <h2>Welcome to GoodView</h2>
+    <p>GoodView redefines car rear-view mirrors, turning them into smart safety devices. Whether it’s a driving recorder, active safety assistant, or in-car navigation system — our products bring you peace of mind, entertainment, and a safer drive.</p>
+
+    <p>With advanced R&D and manufacturing, every GoodView product is crafted under strict quality control, using eco-friendly materials and robust industrial-grade standards. We are committed to delivering reliability, safety, and innovation to every driver.</p>
+
+    <p><a href="products.html">Browse Products →</a></p>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 GoodView. All rights reserved.</p>
+  </footer>
+</body>
+</html>
