@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>GoodView — Products</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <header>
+    <h1>GoodView</h1>
+    <nav>
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="about.html">About Us</a></li>
+        <li><a href="products.html">Products</a></li>
+        <li><a href="news.html">News</a></li>
+        <li><a href="contact.html">Contact Us</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <h2>Our Products</h2>
+    <div class="product-grid">
+      <!-- Example product. Duplicate this block for each product -->
+      <div class="product-item">
+        <h3>Smart Rear-View Mirror (Wide-Angle + 1080p Recorder)</h3>
+        <p>Full-HD 140° wide-angle mirror with night-vision, reversing camera support, and more.</p>
+      </div>
+
+      <div class="product-item">
+        <h3>Touch-Screen Rear-View Mirror</h3>
+        <p>Integrated touchscreen rear-view mirror — combining navigation, reversing camera and entertainment.</p>
+      </div>
+
+      <!-- Add more products here -->
+    </div>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 GoodView. All rights reserved.</p>
+  </footer>
+</body>
+</html>
