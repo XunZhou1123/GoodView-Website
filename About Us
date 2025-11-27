@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>GoodView — About Us</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <header>
+    <h1>GoodView</h1>
+    <nav>
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="about.html">About Us</a></li>
+        <li><a href="products.html">Products</a></li>
+        <li><a href="news.html">News</a></li>
+        <li><a href="contact.html">Contact Us</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <h2>Our Story</h2>
+    <p>GoodView — a brand redefining automotive rear-view mirrors with the concept of intelligent safety. You can think of our mirrors as driving recorders, active safety assistants, or in-car navigation — all designed to keep your driving safe. :contentReference[oaicite:1]{index=1}</p>
+
+    <p>GoodView stands for scientific vision and innovation. We believe in delivering unmatched product quality and a new perspective on intelligent rear-view mirrors. Our mission: to make every drive safer, smarter, and more enjoyable. :contentReference[oaicite:2]{index=2}</p>
+
+    <p>Quality is at the core of GoodView. Our manufacturing adopts modern industrial standards with strict quality control. Each Product is carefully assembled using eco-friendly materials and high-grade components, designed to withstand high or low temperature, physical stress, and everyday wear. :contentReference[oaicite:3]{index=3}</p>
+
+    <p>Our smart rear-view mirrors come with features like TPMS tire-pressure monitoring, 140° wide-angle 1080p recording, low-light night vision, Bluetooth (for hands-free and music), FM transmitter, radar-speed warning, HD reverse view, satellite navigation, MP3 playback — and much more. GoodView mirrors are safety specialists on the road. :contentReference[oaicite:4]{index=4}</p>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 GoodView. All rights reserved.</p>
+  </footer>
+</body>
+</html>
